@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 60000,
+    "specs": {
+      "warranty": "1 year",
+      "voltage": "220V"
+    }
+  },
+  {
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 800,
+    "attributes": {
+      "size": "M",
+      "color": "Black"
+    }
+  },
+  {
+    "name": "Milk",
+    "category": "Groceries",
+    "price": 50,
+    "details": {
+      "expiry": "2024-12-01",
+      "nutrition": "High Calcium"
+    }
+  }
+]
